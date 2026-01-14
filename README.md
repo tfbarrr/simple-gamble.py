@@ -3,3 +3,6 @@ Casino 0-36
 
 # Win
 ![winprev](https://raw.githubusercontent.com/tfbarrr/simple-gamble.py/main/Screenshot_20260114-125513.jpg)
+
+# Lose
+![loseprev](https://raw.githubusercontent.com/tfbarrr/simple-gamble.py/main/Screenshot_20260114-125540.jpg)
