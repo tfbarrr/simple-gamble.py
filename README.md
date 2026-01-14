@@ -1,5 +1,6 @@
 # Python simple gamble
 Casino 0-36
+Training my py skills;)
 
 # Win
 ![winprev](https://raw.githubusercontent.com/tfbarrr/simple-gamble.py/main/Screenshot_20260114-125513.jpg)
@@ -9,3 +10,6 @@ Casino 0-36
 
 # Wrong choice
 ![invprev](https://raw.githubusercontent.com/tfbarrr/simple-gamble.py/main/Screenshot_20260114-125603.jpg)
+
+# Exit
+![extprev](https://raw.githubusercontent.com/tfbarrr/simple-gamble.py/main/Screenshot_20260114-125625.jpg)
